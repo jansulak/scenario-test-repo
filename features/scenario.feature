@@ -1,5 +1,7 @@
-Feature:
+Feature:AuthenticationFeature
   On page
 
   Scenario:
-    User can connenct.
+    Given User can connenct.
+    When Ready
+    Then OK
