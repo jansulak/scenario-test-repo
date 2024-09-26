@@ -1,5 +1,5 @@
 Feature:
-  <Some interesting description here>
+  On page
 
   Scenario:
-    <Some interesting scenario steps here>
+    User can connenct.
